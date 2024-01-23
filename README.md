@@ -1,5 +1,5 @@
-# Arduino voorbeeld code horende bij lessen
-Cursus 3
+# Arduino voorbeeldcode Cursus 3
+
 
 
 
